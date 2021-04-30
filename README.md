@@ -2,8 +2,6 @@
 
 <br/>
 
----
-
 ## Features:
 - [ ] Full Responsive
 - [ ] Custom CSS for beautiful design
